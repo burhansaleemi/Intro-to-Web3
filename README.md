@@ -2,7 +2,7 @@
 Practice of Web3 based on dappuniversity tutorial 
 https://www.dappuniversity.com/articles/web3-js-intro
 
-
+Code will not work i have remmoved the Private_Key
 
 
 03 conrteact deoplyed on ropsten
