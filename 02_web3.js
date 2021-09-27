@@ -8,7 +8,7 @@ const web3 = new Web3(rpcURL);
 
 
 const accountS = "0x45FE0e957451C15E2B373F2693Cb5f26d7e93634";
-const Private_Key = '2fb232d1273a2ee02cc5250c7b36f0f5ee78d95837037787ee668c88fffea974';
+const Private_Key = 'Private_Key';
 const Private_KeyS = Buffer.from(Private_Key, 'hex');
 
 const accountR = "0xbAB34d3D9f5E1f69179e8f099133237336C0dd68";
